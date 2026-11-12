@@ -1,21 +1,37 @@
 # Hi, I'm Asee1993 👋
 
-Welcome to my corner of GitHub! This profile is where I share projects, ideas, and the work I’m exploring.
+### Aspiring Cybersecurity Professional | Blue Team & SOC Enthusiast
 
-## About me
+I’m a student building a foundation for a career in cybersecurity. I’m especially interested in defending systems, detecting threats, and responding to security incidents. I’m working to grow my technical knowledge through continued learning and hands-on practice.
 
-- 🛠️ I enjoy building useful things and learning by making.
-- 🌱 I’m always curious about new tools, thoughtful engineering, and better ways to solve problems.
-- 🤝 Open to connecting with fellow builders and collaborating on interesting ideas.
+## Areas of interest
 
-## What you'll find here
+- Blue Team and Security Operations Centers (SOC)
+- Network security and threat detection
+- Incident response
+- AI in cybersecurity
+- Governance, Risk, and Compliance (GRC)
 
-Explore my repositories for experiments, projects, and resources. Each one is a chance to learn something new and make something better.
+## Skills and learning
 
-## Let's connect
+- Cybersecurity fundamentals
+- Networking fundamentals
+- Security awareness
+- Microsoft Office and Canva
+- Python fundamentals — currently learning
 
-Have an idea, a question, or a project in mind? Feel free to open an issue or start a conversation through GitHub.
+## My goals
+
+- Develop practical cybersecurity skills
+- Build hands-on cybersecurity projects
+- Strengthen my technical knowledge
+- Create a professional portfolio
+- Start a career in cybersecurity
+
+## What I’m focused on
+
+I’m learning step by step and looking for opportunities to apply what I study through practical projects. This profile will grow as I build experience and share my work.
 
 ---
 
-*Thanks for stopping by — take a look around!*
+Thanks for visiting my profile. I’m always glad to connect with others who are learning, building, and working in cybersecurity.
