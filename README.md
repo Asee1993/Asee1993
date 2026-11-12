@@ -18,7 +18,7 @@ I’m a student building a foundation for a career in cybersecurity. I’m espec
 - Networking fundamentals
 - Security awareness
 - Microsoft Office and Canva
-- Python fundamentals — currently learning
+- Python fundamentals 
 
 ## My goals
 
